@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Button Logo Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--logo"
+    type="button"
+  >
+    +
+  </button>,
+  " ",
+  <button
+    className="button button--medium button--logo"
+    type="button"
+  >
+    +
+  </button>,
+  " ",
+  <button
+    className="button button--small button--logo"
+    type="button"
+  >
+    +
+  </button>,
+]
+`;
+
+exports[`Storyshots Components/Button Primary Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--primary"
+    type="button"
+  >
+    Button
+  </button>,
+  "  ",
+  <button
+    className="button button--medium button--primary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--primary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--primary"
+    disabled={true}
+    type="button"
+  >
+    Button
+  </button>,
+  "  ",
+]
+`;
+
+exports[`Storyshots Components/Button Sandbox Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--medium button--primary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+]
+`;
+
+exports[`Storyshots Components/Button Secondary Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--secondary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--medium button--secondary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--secondary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--secondary"
+    disabled={true}
+    type="button"
+  >
+    Button
+  </button>,
+]
+`;
+
+exports[`Storyshots Components/Button Tertiary Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--tertiary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--medium button--tertiary"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--tertiary"
+    type="button"
+  >
+    Button
+  </button>,
+]
+`;
+
+exports[`Storyshots Components/Button Upgrade Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--upgrade"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--medium button--upgrade"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--upgrade"
+    type="button"
+  >
+    Button
+  </button>,
+]
+`;
+
+exports[`Storyshots Components/Button Warning Button 1`] = `
+Array [
+  " ",
+  <button
+    className="button button--large button--warning"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--medium button--warning"
+    type="button"
+  >
+    Button
+  </button>,
+  " ",
+  <button
+    className="button button--small button--warning"
+    type="button"
+  >
+    Button
+  </button>,
+]
+`;
+
+exports[`Storyshots Components/Modal Create Modal 1`] = `
+<button
+  className="button button--medium button--primary"
+  onClick={[Function]}
+  type="button"
+>
+  Click here to open Modal
+</button>
+`;
+
+exports[`Storyshots Components/Modal Delete Modal 1`] = `
+<button
+  className="button button--medium button--warning"
+  onClick={[Function]}
+  type="button"
+>
+  Click here to open Modal
+</button>
+`;
+
+exports[`Storyshots Components/Modal Sandbox Modal 1`] = `
+<button
+  className="button button--medium button--primary"
+  onClick={[Function]}
+  type="button"
+>
+  Click here to open Modal
+</button>
+`;
+
+exports[`Storyshots Components/Slider Slider Component 1`] = `
+Array [
+  " ",
+  <input
+    className="slider slider-medium"
+    max={100}
+    min={0}
+    onChange={[Function]}
+    type="range"
+    value={0}
+  />,
+  " ",
+]
+`;
+
+exports[`Storyshots Components/Toggle Toggle Component 1`] = `
+Array [
+  " ",
+  <div
+    className="toggle-switch"
+  >
+    <input
+      checked={false}
+      className="toggle-switch-checkbox"
+      id="id"
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <label
+      className="toggle-switch-label"
+      htmlFor="id"
+      tabIndex={1}
+    >
+      <span
+        className="toggle-switch-inner"
+        tabIndex={-1}
+      />
+      <span
+        className="toggle-switch-switch"
+        tabIndex={-1}
+      />
+    </label>
+  </div>,
+  " ",
+]
+`;
+
+exports[`Storyshots Components/Tooltip Tooltip Component 1`] = `
+Array [
+  " ",
+  <div
+    className="tooltip-container"
+  >
+    <div
+      className="tooltip-box"
+    >
+      Simple ToolTip
+      <span
+        className="tooltip-arrow"
+      />
+    </div>
+    <div
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+       
+      <button
+        className="button button--medium button--primary"
+        type="button"
+      >
+        Hover Me!
+      </button>
+       
+    </div>
+  </div>,
+  " ",
+]
+`;
+
+exports[`Storyshots Components/Tooltip Tooltip Component With Shortcut 1`] = `
+Array [
+  " ",
+  <div
+    className="tooltip-container"
+  >
+    <div
+      className="tooltip-box"
+    >
+      Simple ToolTip
+      <span
+        className="tooltip-arrow"
+      />
+    </div>
+    <div
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+    >
+       
+      <button
+        className="button button--medium button--primary"
+        type="button"
+      >
+        Hover Me!
+      </button>
+       
+    </div>
+  </div>,
+]
+`;

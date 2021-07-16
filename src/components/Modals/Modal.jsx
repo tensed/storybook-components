@@ -49,11 +49,11 @@ export const Modal = ({ isVisible = false, title, content, footer, onClose }) =>
     /**
      * Add Corresponding components or Typography to show information.
      */
-    content: PropTypes.func,
+    content: PropTypes.elementType,
     /**
      * Add Corresponding Action buttons or Typography for next action.
      */
-    footer: PropTypes.func,
+    footer: PropTypes.elementType,
 
   };
 
